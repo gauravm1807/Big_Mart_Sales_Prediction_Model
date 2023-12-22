@@ -1,8 +1,8 @@
-### Big Mart Sales Prediction
+# Big Mart Sales Prediction
 The aim is to build a predictive model and find out the sales of each product at a particular store. Create a model by which Big Mart can analyse and predict the outlet production sales.
 A perfect project to learn Data Analytics and apply Machine Learning algorithms (Linear Regression, Random Forest Regressor, XG Boost) to predict the outlet production sales.
 
-### Dataset Description
+# Dataset Description
 BigMart has collected sales data from the year 2013, for 1559 products across 10 stores in different cities. 
 Where the dataset consists of 12 attributes like Item Fat, Item Type, Item MRP, Outlet Type, Item Visibility, 
 Item Weight, Outlet Identifier, Outlet Size, Outlet Establishment Year, Outlet Location Type, Item Identifier and Item Outlet Sales. 
